@@ -1,0 +1,34 @@
+body {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.container {
+   font-size: 1.25rem;
+   line-height: 1.4;
+}
+
+header.section_header {
+   position: sticky;
+   top: 0;
+   padding: 1em;
+   background: #546880;
+}
+
+.container h2 {
+   color: white;
+   letter-spacing: 0.05em;
+   font-size: 1.5rem;
+}
+
+.container h3 {
+   color: #546880;
+   font-size: 1.5rem;
+}
+
+.section_content {
+   padding: 1em;
+   /* display: flex; */
+   justify-content: center;
+   max-width: 90%;
+   margin: 0 auto;
+}
